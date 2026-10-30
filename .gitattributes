@@ -1,0 +1,17 @@
+# Normalise line endings so the project is identical on every machine.
+* text=auto
+
+# Unity text assets: keep them as text and diff them as text.
+*.cs      text diff=csharp
+*.unity   text
+*.prefab  text
+*.asset   text
+*.mat     text
+*.anim    text
+*.controller text
+*.meta    text
+*.md      text
+*.json    text
+*.inputactions text
+
+# Unity must keep .meta files; they are text, never binary.

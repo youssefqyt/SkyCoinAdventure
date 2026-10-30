@@ -1,0 +1,57 @@
+# ------------------------------------------------------------------
+#  Unity generated folders — never commit these
+# ------------------------------------------------------------------
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+[Aa]ssets/_Recovery/
+
+# Asset Store tools imported into the project
+[Aa]ssets/AssetStoreTools*
+
+# ------------------------------------------------------------------
+#  IDE / editor files
+# ------------------------------------------------------------------
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# ------------------------------------------------------------------
+#  OS files
+# ------------------------------------------------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ------------------------------------------------------------------
+#  Build artifacts (APK / AAB / WebGL / installers)
+# ------------------------------------------------------------------
+*.apk
+*.aab
+*.unitypackage
+*.app
+*.exe
+*.pdb.meta
+
+# Unity crash / profiler dumps
+sysinfo.txt
+crashlytics-build.properties
